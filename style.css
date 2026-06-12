@@ -48,9 +48,9 @@ body {
   min-height: 330px;
   padding: 42px 48px;
   color: #fff;
-  background:
+  background-image:
     linear-gradient(110deg, rgba(13, 63, 60, 0.96), rgba(13, 63, 60, 0.78) 48%, rgba(189, 68, 90, 0.42)),
-    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Kvb4_cqtgLqumo8_2Oa1zrSI5FOcWOkUxA&s") center/cover;
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxihDWMtkZOZwjRQ4Ppuubj2wsdLpnHmWsQ&s") center/cover;
   position: relative;
 }
 
