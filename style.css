@@ -48,9 +48,9 @@ body {
   min-height: 330px;
   padding: 42px 48px;
   color: #fff;
-  background-image:
+  background:
     linear-gradient(110deg, rgba(13, 63, 60, 0.96), rgba(13, 63, 60, 0.78) 48%, rgba(189, 68, 90, 0.42)),
-    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxihDWMtkZOZwjRQ4Ppuubj2wsdLpnHmWsQ&s") center/cover;
+    url("https://duniadosen.com/wp-content/uploads/2021/04/penelitian-studi-kasus.jpg") center/cover;
   position: relative;
 }
 
