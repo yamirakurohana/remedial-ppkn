@@ -49,11 +49,13 @@ body {
   padding: 42px 48px;
   color: #fff;
   background:
-    linear-gradient(110deg, rgba(13, 63, 60, 0.96), rgba(13, 63, 60, 0.78) 48%, rgba(189, 68, 90, 0.42)),
-    url("https://duniadosen.com/wp-content/uploads/2021/04/penelitian-studi-kasus.jpg") center/cover;
+    radial-gradient(circle at 78% 22%, rgba(246, 196, 83, 0.42), transparent 15rem),
+    radial-gradient(circle at 92% 78%, rgba(43, 108, 176, 0.36), transparent 16rem),
+    linear-gradient(135deg, rgba(189, 68, 90, 0.34), transparent 34%),
+    linear-gradient(110deg, #0d3f3c 0%, #0f766e 58%, #18212f 100%);
   position: relative;
+  overflow: hidden;
 }
-
 .hero::after {
   content: "";
   position: absolute;
